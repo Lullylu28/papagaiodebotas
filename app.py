@@ -97,3 +97,5 @@ usuario = input("Seu nome: ")
 sugestao = input("Digite sua sugestão: ")
 
 sugerir_alteracao(usuario, sugestao)
+
+streamlit run app.py
